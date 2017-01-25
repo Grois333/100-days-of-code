@@ -16,7 +16,7 @@ https://www.freecodecamp.com/grois333
 
 
 
-### Day 0: January 15, 2017
+### Day 0: January 16, 2017
 
 **Today's Progress**:
 Started the Free Code Camp program.
