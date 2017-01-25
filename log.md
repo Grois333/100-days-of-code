@@ -1,7 +1,7 @@
 
 # 100 Days Of Code - Log
 
-
+###Adding progress...
 
 ### Day 9: January 25, 2017
 
