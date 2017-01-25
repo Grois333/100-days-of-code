@@ -3,7 +3,7 @@
 ### Day 0: January 5, 2017
 
 **Today's Progress**:
-Started Free Code Camps program.
+Started the Free Code Camp program.
 
 **Thoughts:** 
 
