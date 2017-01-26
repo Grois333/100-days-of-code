@@ -6,7 +6,7 @@
 ### Day 9: January 25, 2017
 
 **Today's Progress**:
-Finished 10 FreeCodeCamp excercises, learned Font Awesome with Bootstrap. Also started to add my progress to my GitHub account in the 100-days-of-code Repo. 
+Finished 12 FreeCodeCamp excercises, learned Font Awesome with Bootstrap. Also started to add my progress to my GitHub account in the 100-days-of-code Repo. 
 
 **Thoughts:** 
 
