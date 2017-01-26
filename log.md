@@ -17,7 +17,7 @@ https://www.freecodecamp.com/grois333
 ### Day 8: January 16, 2017
 
 **Today's Progress**:
-Started the Free Code Camp program.
+Finished excercises from FreeCodeCamp: Responsive Design with Bootstrap (Grid, Font and style).
 
 **Thoughts:** 
 
@@ -28,7 +28,7 @@ https://www.freecodecamp.com/grois333
 ### Day 7: January 16, 2017
 
 **Today's Progress**:
-Started the Free Code Camp program.
+Finished excercises from FreeCodeCamp: Responsive Design with Bootstrap (Fluid Containers and Buttons).
 
 **Thoughts:** 
 
@@ -39,7 +39,7 @@ https://www.freecodecamp.com/grois333
 ### Day 6: January 16, 2017
 
 **Today's Progress**:
-Started the Free Code Camp program.
+Finished excercises from FreeCodeCamp: HTML5 and CSS (Styling with CSS).
 
 **Thoughts:** 
 
@@ -49,7 +49,7 @@ https://www.freecodecamp.com/grois333
 ### Day 5: January 16, 2017
 
 **Today's Progress**:
-Started the Free Code Camp program.
+Finished excercises from FreeCodeCamp: HTML5 and CSS (Padding, Margins and Borders).
 
 **Thoughts:** 
 
@@ -59,7 +59,7 @@ https://www.freecodecamp.com/grois333
 ### Day 4: January 16, 2017
 
 **Today's Progress**:
-Started the Free Code Camp program.
+Finished excercises from FreeCodeCamp: HTML5 and CSS (Radio Buttons and Checkboxes). 
 
 **Thoughts:** 
 
@@ -70,7 +70,7 @@ https://www.freecodecamp.com/grois333
 ### Day 3: January 16, 2017
 
 **Today's Progress**:
-Started the Free Code Camp program.
+Finished 9 excercises from FreeCodeCamp: HTML5 and CSS (Dead link, Ordered and Unordered Lists, Text Field and Button Form).
 
 **Thoughts:** 
 
@@ -81,7 +81,7 @@ https://www.freecodecamp.com/grois333
 ### Day 2: January 16, 2017
 
 **Today's Progress**:
-Started the Free Code Camp program.
+Finished 9 excercises from FreeCodeCamp: HTML5 and CSS (Sized Images, Border Radius, Links and nesting paragraphs).
 
 **Thoughts:** 
 
@@ -92,7 +92,7 @@ https://www.freecodecamp.com/grois333
 ### Day 1: January 16, 2017
 
 **Today's Progress**:
-Started the Free Code Camp program.
+Finished 9 excercises from FreeCodeCamp: HTML5 and CSS (Placeholders, Style Elements and Fonts).
 
 **Thoughts:** 
 
@@ -103,7 +103,7 @@ https://www.freecodecamp.com/grois333
 ### Day 0: January 16, 2017
 
 **Today's Progress**:
-Started the Free Code Camp program.
+Started the Free Code Camp program. Made 9 excercises: Getting Started, Joined the FreeCodeCamp Community, HTML5 and CSS (Hello World, comments). 
 
 **Thoughts:** 
 
