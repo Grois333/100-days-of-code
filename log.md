@@ -3,6 +3,16 @@
 
 ###Adding progress...
 
+### Day 10: January 26, 2017
+
+**Today's Progress**:
+Finished Bootstrap design excercises and Started jQuery.
+
+**Thoughts:** 
+
+**Link(s) to work:**
+https://www.freecodecamp.com/grois333
+
 ### Day 9: January 25, 2017
 
 **Today's Progress**:
