@@ -3,6 +3,16 @@
 
 ###Adding progress...
 
+### Day 11: January 27, 2017
+
+**Today's Progress**:
+Finished 10 FreeCodeCamp excercises of jQuery.
+
+**Thoughts:** 
+
+**Link(s) to work:**
+https://www.freecodecamp.com/grois333
+
 ### Day 10: January 26, 2017
 
 **Today's Progress**:
