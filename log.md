@@ -6,12 +6,14 @@
 ### Day 12: January 29, 2017
 
 **Today's Progress**:
-Finished 6 FreeCodeCamp excercises and finished jQuery section. I also completed the "Build a Tribute Page" challenge 
+Finished 6 FreeCodeCamp excercises and finished jQuery section. I also completed the "Build a Tribute Page" challenge. 
 
 **Thoughts:** 
+Until now pretty straight forward, feeling good with coding!
 
-**Link(s) to work:**
-"Tribute Page" Challenge: https://codepen.io/grois33/full/BzYgkP/ 
+**Link(s) to work:** <br>
+"Tribute Page" Challenge: 
+https://codepen.io/grois33/full/BzYgkP/ <br>
 https://www.freecodecamp.com/grois333
 
 ### Day 11: January 27, 2017
