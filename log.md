@@ -3,6 +3,18 @@
 
 ###Adding progress...
 
+### Day 13: January 30, 2017
+
+**Today's Progress**:
+Started the "Build a Personal Portfolio Webpage" project. Added sections(header, nav bars, styled image and info sections) "work in progress".
+
+**Thoughts:** 
+Until now pretty straight forward, feeling good with coding!
+
+**Link(s) to work:**
+https://www.freecodecamp.com/grois333
+
+
 ### Day 12: January 29, 2017
 
 **Today's Progress**:
