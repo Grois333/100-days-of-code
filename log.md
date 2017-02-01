@@ -3,6 +3,19 @@
 
 ###Adding progress...
 
+### Day 14: January 30, 2017
+
+**Today's Progress**:
+Building the FreeCodeCamp Personal Portfolio Webpage: Finished the header, added navs for menu, images, about section, going to start the projects section and later add a contact form and footer. 
+
+**Thoughts:** 
+I feel like I can spend hours modifying things on the page to give it more details.
+
+**Link(s) to work:** <br>
+"Build a Personal Portfolio Webpage" project: 
+https://codepen.io/grois33/full/pbkLXk/ <br>
+https://www.freecodecamp.com/grois333
+
 ### Day 13: January 30, 2017
 
 **Today's Progress**:
