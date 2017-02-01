@@ -8,8 +8,8 @@
 **Today's Progress**:
 Studied Html and CSS on #Platzi. Also kept on twicking the portfolio page, added footer for contact info, changed color, looking to add animation and smooth scrolling. 
 
-**Thoughts:** Today I wasn´t feeling so good!
-I feel like I can spend hours modifying things on the page to give it more details.
+**Thoughts:** 
+Today I wasn´t feeling so good!
 
 **Link(s) to work:** <br>
 "Build a Personal Portfolio Webpage" project: 
