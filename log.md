@@ -3,6 +3,19 @@
 
 ###Adding progress...
 
+### Day 16: February 02, 2017
+
+**Today's Progress**:
+Added to the portfolio page a fixed top menu bar with the navs, made tranparent a color for better viewing, sized larger the about page, added in the footer section a contact form, also added a social icon, I will keep on adding more icons, also improving the page, maybe add a smooth scroll, bounce animation, and add projects to the Project section. 
+
+**Thoughts:** 
+Takes a lot of time and effort, but it pays off. Some times a need to search for help on the internet because I dont know so much coding, especially for the CSS parts.
+
+**Link(s) to work:** <br>
+"Build a Personal Portfolio Webpage" project: 
+https://codepen.io/grois33/full/pbkLXk/ <br>
+https://www.freecodecamp.com/grois333
+
 ### Day 15: February 01, 2017
 
 **Today's Progress**:
