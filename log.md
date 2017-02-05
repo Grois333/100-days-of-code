@@ -3,6 +3,19 @@
 
 ###Adding progress...
 
+### Day 17: February 05, 2017
+
+**Today's Progress**:
+Finished for now the portfolio Webpage: Added a project to the Projects section, made a change opacity while image of the project is hovered and added a smooth scroll to the menu navs for each section of the page. I will keep adding or changing things in to future if necessary.
+
+**Thoughts:** 
+I will keep on adding more projects and content to the portfolio in the future.
+
+**Link(s) to work:** <br>
+"Build a Personal Portfolio Webpage" project: <br>
+https://codepen.io/grois33/full/pbkLXk/ <br>
+https://www.freecodecamp.com/grois333
+
 ### Day 16: February 02, 2017
 
 **Today's Progress**:
