@@ -3,6 +3,16 @@
 
 ###Adding progress...
 
+### Day 18: February 06, 2017
+
+**Today's Progress**:
+Completed 26 FreeCodeCamp exercises of JavaScript. (comments, variables, operations and concatenation).
+
+**Thoughts:** 
+
+**Link(s) to work:**
+https://www.freecodecamp.com/grois333
+
 ### Day 17: February 05, 2017
 
 **Today's Progress**:
