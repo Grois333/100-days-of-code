@@ -3,6 +3,16 @@
 
 ###Adding progress...
 
+### Day 19: February 07, 2017
+
+**Today's Progress**:
+Completed 15 FreeCodeCamp exercises of JavaScript. (strings with variables, concatenating, appending, finding characters, Arrays, access indexes of Arrays and access Multi-Dimensional Arrays.).
+
+**Thoughts:** 
+
+**Link(s) to work:**
+https://www.freecodecamp.com/grois333
+
 ### Day 18: February 06, 2017
 
 **Today's Progress**:
