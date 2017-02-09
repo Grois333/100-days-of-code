@@ -3,6 +3,17 @@
 
 ###Adding progress...
 
+### Day 20: February 08, 2017
+
+**Today's Progress**:
+Completed 13 FreeCodeCamp exercises of JavaScript. Manipulating Arrays, lists, Functions, variable scope,Return a Value from a Function with Return, Assignment with a Returned Value and made the "Stand in Line" Function, what this function does is: creat a "queue". In Computer Science a queue is an abstract Data Structure where items are kept in order, and old items are taken off from the front of the queue.
+
+**Thoughts:** 
+I got confused in the Stand in Line Function, but finally understood what to do and figured it out.
+
+**Link(s) to work:**
+https://www.freecodecamp.com/grois333
+
 ### Day 19: February 07, 2017
 
 **Today's Progress**:
