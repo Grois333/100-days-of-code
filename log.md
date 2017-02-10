@@ -3,6 +3,16 @@
 
 ###Adding progress...
 
+### Day 21: February 09, 2017
+
+**Today's Progress**:
+I Studied on the #Platzi platform - Web Design (footer, contact forms, basic Flexbox, and linking internal pages) for a Project Site Called "Invie"
+
+**Thoughts:** 
+
+**Link(s) to work:**
+https://isaac-groisman.neocities.org/Invie-Site/index.html
+
 ### Day 20: February 08, 2017
 
 **Today's Progress**:
