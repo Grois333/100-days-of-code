@@ -9,6 +9,7 @@
 I Studied on the #Platzi platform - Web Design (footer, contact forms, basic Flexbox, and linking internal pages) for a Project Site Called "Invie".
 
 **Thoughts:** 
+There is much more to study and understand on how Flexbox works.
 
 **Link(s) to work:**
 https://isaac-groisman.neocities.org/Invie-Site/index.html
