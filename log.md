@@ -9,7 +9,7 @@
 Completed 17 FreeCodeCamp exercises of JavaScript. Boolean values, if, else, else if, ==, !=, >, <=, statements, Logical Order and made the Golf Code function with Else if statements and comparing operaters with the par and stroke golf concept.
 
 **Thoughts:** 
-I got confused in the Stand in Line Function, but finally understood what to do and figured it out.
+
 
 **Link(s) to work:**
 https://www.freecodecamp.com/grois333
