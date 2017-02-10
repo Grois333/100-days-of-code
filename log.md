@@ -6,7 +6,7 @@
 ### Day 21: February 09, 2017
 
 **Today's Progress**:
-I Studied on the #Platzi platform - Web Design (footer, contact forms, basic Flexbox, and linking internal pages) for a Project Site Called "Invie"
+I Studied on the #Platzi platform - Web Design (footer, contact forms, basic Flexbox, and linking internal pages) for a Project Site Called "Invie".
 
 **Thoughts:** 
 
