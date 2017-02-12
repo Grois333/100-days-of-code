@@ -6,7 +6,7 @@
 ### Day 23: February 12, 2017
 
 **Today's Progress**:
-Completed 14 FreeCodeCamp exercises of JavaScript. Switch Statement, multiple identical, Replacing If Else Chains with Switch,  return boolean values from functions, made the "Blackjack" Counting Cards return Function, Build Javascript Objects, accessing object Properties with dot and Bracket notations, updating, adding and deleting properties from obejcts.)
+Completed 14 FreeCodeCamp exercises of JavaScript. Switch Statements, multiple identical, Replacing If Else Chains with Switch,  return boolean values from functions, made the "Blackjack" Counting Cards return Function, Build Javascript Objects, accessing object Properties with dot and Bracket notations, updating, adding and deleting properties from obejcts.)
 
 **Thoughts:** 
 
