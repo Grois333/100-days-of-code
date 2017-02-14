@@ -3,6 +3,17 @@
 
 ###Adding progress...
 
+### Day 24: February 13, 2017
+
+**Today's Progress**:
+ Learned Flexbox principles with Flex Froggy. Completed 10 FreeCodeCamp exercises of JavaScript (Access and manipulate nested objects, nested arrays, iterate For Loops, Iterate Nested For Loops). 
+
+**Thoughts:** 
+
+**Link(s) to work:**
+http://flexboxfroggy.com <br>
+https://www.freecodecamp.com/grois333
+
 ### Day 23: February 12, 2017
 
 **Today's Progress**:
