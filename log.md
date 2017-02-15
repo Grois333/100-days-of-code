@@ -3,7 +3,7 @@
 
 ###Adding progress...
 
-## Day 25: February 15, 2017
+### Day 25: February 15, 2017
 
 **Today's Progress**: <br>
  Completed 14 FreeCodeCamp exercises - Finished The Basic JavaScript section: "9 exercises" (Iterate While Loops, Profile Lookup Function, Generate Random Fractions and Whole Numbers with JavaScript, Find Numbers and spaces with Regular Expressions). <br>
