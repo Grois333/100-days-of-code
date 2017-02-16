@@ -10,7 +10,7 @@
  
  5 exercises of the Object Oriented and Functional Programming Section: (Declare Objects as Variables, Construct Objects with Functions, Make Instances, Make Unique Objects by Passing Parameters, Make Object Properties Private).
 
-Thoughts: I struggled with "The Profile Lookup" exercise, I had to use a reference to understand how to compare a parameter of the function to different properties of objects in a List by Iterating. 
+**Thoughts:**  I struggled with "The Profile Lookup" exercise, I had to use a reference to understand how to compare a parameter of the function to different properties of objects in a List by Iterating. 
 
 Link(s) to work: https://www.freecodecamp.com/grois333
 
