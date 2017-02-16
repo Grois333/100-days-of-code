@@ -12,7 +12,7 @@
 
 **Thoughts:**  I struggled with "The Profile Lookup" exercise, I had to use a reference to understand how to compare a parameter of the function to different properties of objects in a List by Iterating. 
 
-Link(s) to work: https://www.freecodecamp.com/grois333
+**Link(s) to work:** https://www.freecodecamp.com/grois333
 
 ### Day 24: February 13, 2017
 
