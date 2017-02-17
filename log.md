@@ -5,7 +5,7 @@
 
 ### Day 26: February 17, 2017
 
-**Today's Progress**: <br>
+**Today's Progress**: 
  Completed 9 FreeCodeCamp exercises - Finished The Object Oriented and Functional Programming Section: "8 exercises" (Iterate, Condense, Filter, Sort, Reverse, Concatenate, Split Strings, Join Strings, in ARRAYS). And did the first exercise of the Basic Algorithm Scripting Challenges: (Reverse a String Function).
 
 **Thoughts:**  These new Algorithm Challenges could take a while to do. 
