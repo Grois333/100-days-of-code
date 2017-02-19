@@ -3,6 +3,15 @@
 
 ###Adding progress...
 
+### Day 27: February 19, 2017
+
+**Today's Progress**: 
+Finished and Deployed to Github Pages: The "Invie" Web Design Project from Platzi.
+
+**Thoughts:** 
+
+**Link(s) to work:** https://grois333.github.io/invie/
+
 ### Day 26: February 17, 2017
 
 **Today's Progress**: 
