@@ -3,6 +3,16 @@
 
 ###Adding progress...
 
+### Day 28: February 20, 2017
+
+**Today's Progress**: 
+Completed 5 FreeCodeCamp challenges from the Basic Algorithm Scripting section (Factorialize a Number, Check for Palindromes, Find the Longest Word in a String, Title Case a Sentence, Return Largest Numbers in Arrays).
+
+**Thoughts:**  These Algorithm Challenges took awhile to do. 
+
+**Link(s) to work:** https://www.freecodecamp.com/grois333
+
+
 ### Day 27: February 19, 2017
 
 **Today's Progress**: 
