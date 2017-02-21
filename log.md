@@ -3,6 +3,15 @@
 
 ###Adding progress...
 
+### Day 29: February 21, 2017
+
+**Today's Progress**: 
+Completed 5 FreeCodeCamp challenges from the Basic Algorithm Scripting section (Confirm the Ending, Repeat a string repeat a string, Truncate a string, split arrays into groups, splice items from Arrays).
+
+**Thoughts:**  
+
+**Link(s) to work:** https://www.freecodecamp.com/grois333
+
 ### Day 28: February 20, 2017
 
 **Today's Progress**: 
