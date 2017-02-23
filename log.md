@@ -3,6 +3,16 @@
 
 ###Adding progress...
 
+
+### Day 30: February 22, 2017
+
+**Today's Progress**: 
+Completed 5 FreeCodeCamp challenges from the Basic Algorithm Scripting section (Mutations, Falsy Bouncer, Seek and Destroy, Where do I belong, Caesars Cipher Complete).
+
+**Thoughts:**  This is where it gets more complicated!
+
+**Link(s) to work:** https://www.freecodecamp.com/grois333
+
 ### Day 29: February 21, 2017
 
 **Today's Progress**: 
