@@ -139,7 +139,7 @@ https://www.freecodecamp.com/grois333
 ### Day 17: February 05, 2017
 
 **Today's Progress**:
-Finished for now the portfolio Webpage: Added a project to the Projects section, made a change opacity while image of the project is hovered and added a smooth scroll to the menu navs for each section of the page, with a jQuery Function. I will keep adding or changing things to the Portfolio in the future if necessary.
+Finished for now the portfolio Webpage: Added a project to the Projects section, made a change opacity while image of the project is hovered and added a smooth scroll to the menu navs for each section of the page, with a jQuery Function. I will keep adding and changing things to the Portfolio in the future if necessary.
 
 **Thoughts:** 
 I will keep on adding more projects and content to the portfolio in the future.
@@ -155,7 +155,7 @@ https://www.freecodecamp.com/grois333
 Added to the portfolio page a fixed top menu bar with the navs, made tranparent a color for better viewing, sized larger the about page, added in the footer section a contact form, also added a social icon, I will keep on adding more icons, also improving the page, maybe add a smooth scroll, bounce animation, and add projects to the Project section. 
 
 **Thoughts:** 
-Takes a lot of time and effort, but it pays off. Some times a need to search for help on the internet because I dont know so much coding, especially for the CSS parts.
+Takes a lot of time and effort, but it pays off. Some times I need to search for help on the internet because I dont know so much coding, especially for the CSS parts.
 
 **Link(s) to work:** <br>
 "Build a Personal Portfolio Webpage" project: 
