@@ -3,6 +3,15 @@
 
 ###Adding progress...
 
+### Day 31: February 23, 2017
+
+**Today's Progress**: 
+I reviewed the first 5 algorithm scripting challenges to make them in another way (other methods) and also commenting on the lines of code to understand them better. (Reverse a String, Factorialize a Number, Check for Palindromes, Find the Longest Word in a String, Title Case a Sentence).
+
+**Thoughts:**  
+
+**Link(s) to work:** https://www.freecodecamp.com/grois333
+
 
 ### Day 30: February 22, 2017
 
