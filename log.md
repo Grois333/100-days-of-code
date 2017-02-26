@@ -6,6 +6,18 @@
 ### Day 31: February 23, 2017
 
 **Today's Progress**: 
+I Completed the HTML Fundamentals Course on Solo Learn.
+
+**Thoughts:**  
+
+**Link(s) to work:** <br>
+https://www.sololearn.com/Certificate/1014-3710686/pdf/ <br>
+https://www.sololearn.com/Profile/3710686/HTML
+
+
+### Day 31: February 23, 2017
+
+**Today's Progress**: 
 I reviewed the first 5 algorithm scripting challenges to make them in another way (other methods) and also commenting on the lines of code to understand them better. (Reverse a String, Factorialize a Number, Check for Palindromes, Find the Longest Word in a String, Title Case a Sentence).
 
 **Thoughts:**  
