@@ -3,7 +3,7 @@
 
 ###Adding progress...
 
-### Day 31: February 23, 2017
+### Day 32: February 26, 2017
 
 **Today's Progress**: 
 I Completed the HTML Fundamentals Course on Solo Learn.
