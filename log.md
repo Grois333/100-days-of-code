@@ -3,6 +3,16 @@
 
 ###Adding progress...
 
+### Day 34: February 28, 2017
+
+**Today's Progress**: 
+I reviewed 6 algorithm scripting challenges to make them in another way (other methods) and also commenting on the lines of code to understand them better. (Mutations Complete, Falsy Bouncer, Seek and Destroy, Where do I belong, Caesars Cipher).
+
+**Thoughts:**  
+
+**Link(s) to work:** https://www.freecodecamp.com/grois333
+
+
 ### Day 33: February 27, 2017
 
 **Today's Progress**: 
