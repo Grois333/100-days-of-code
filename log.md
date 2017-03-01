@@ -3,6 +3,16 @@
 
 ###Adding progress...
 
+### Day 35: March 01, 2017
+
+**Today's Progress**: 
+I did the JSON APIs and Ajax challenges.
+
+**Thoughts:**  
+
+**Link(s) to work:** https://www.freecodecamp.com/grois333
+
+
 ### Day 34: February 28, 2017
 
 **Today's Progress**: 
