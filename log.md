@@ -3,6 +3,15 @@
 
 ###Adding progress...
 
+### Day 36: March 05, 2017
+
+**Today's Progress**: 
+Worked on the project, cloning the Platzi blog website: https://platzi.com/blog/
+
+**Thoughts:**  
+
+**Link(s) to work:** https://pbs.twimg.com/media/C6MDfnhWcAYkuA8.jpg 
+
 ### Day 35: March 01, 2017
 
 **Today's Progress**: 
