@@ -3,6 +3,15 @@
 
 ###Adding progress...
 
+### Day 37: March 06, 2017
+
+**Today's Progress**: 
+Finished and Deployed to Github Pages Project: Cloning the Platzi Blog Website: https://platzi.com/blog/
+
+**Thoughts:**  
+
+**Link(s) to work:** https://grois333.github.io/Platzi-Blog/ 
+
 ### Day 36: March 05, 2017
 
 **Today's Progress**: 
