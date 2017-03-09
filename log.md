@@ -3,6 +3,15 @@
 
 ###Adding progress...
 
+### Day 38: March 08, 2017
+
+**Today's Progress**: 
+Free Code Camp Project Build a Random Quote Machine.
+
+**Thoughts:**  
+
+**Link(s) to work:** http://codepen.io/grois33/full/VpmzYv/
+
 ### Day 37: March 06, 2017
 
 **Today's Progress**: 
