@@ -3,6 +3,15 @@
 
 ###Adding progress...
 
+### Day 39: March 13, 2017
+
+**Today's Progress**: 
+Platzi Transition Hover Effect Challenge.
+
+**Thoughts:**  
+
+**Link(s) to work:**  http://codepen.io/grois33/full/jBwQBR/
+
 ### Day 38: March 09, 2017
 
 **Today's Progress**: 
