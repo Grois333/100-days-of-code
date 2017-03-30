@@ -3,6 +3,17 @@
 
 ###Adding progress...
 
+### Day 40: February 26, 2017
+
+**Today's Progress**: 
+I Completed the CSS Fundamentals Course on Solo Learn.
+
+**Thoughts:**  
+
+**Link(s) to work:** <br>
+https://www.sololearn.com/Certificate/1023-3710686/pdf/ <br>
+https://www.sololearn.com/Profile/3710686/CSS
+
 ### Day 39: March 13, 2017
 
 **Today's Progress**: 
