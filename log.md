@@ -3,6 +3,15 @@
 
 ###Adding progress...
 
+### Day 41: April 02, 2017
+
+**Today's Progress**: 
+Free Code Camp Project Show the Local Weather App.
+
+**Thoughts:**  
+
+**Link(s) to work:** http://codepen.io/grois33/full/evrdYM/
+
 ### Day 40: February 26, 2017
 
 **Today's Progress**: 
