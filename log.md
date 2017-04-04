@@ -3,6 +3,15 @@
 
 ###Adding progress...
 
+### Day 42: April 03, 2017
+
+**Today's Progress**: 
+Free Code Camp Project Build a Wikipedia Viewer App.
+
+**Thoughts:**  I think that it is very difficult for a beginner to understand how the API really works, very little information was given on this and it wasn't presented in a simpler form, so I had to use a lot of help and research to accomplish this project.
+
+**Link(s) to work:** http://codepen.io/grois33/full/JWzbvy/
+
 ### Day 41: April 02, 2017
 
 **Today's Progress**: 
