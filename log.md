@@ -3,6 +3,15 @@
 
 ###Adding progress...
 
+### Day 44: April 13, 2017
+
+**Today's Progress**: 
+Completed 5 FreeCodeCamp challenges from the Intermediate Algorithm Scripting section (Sum All Numbers in a Range, Diff Two Arrays, Roman Numeral Converter, Wherefore art thou, Search and Replace).
+
+**Thoughts:**  
+
+**Link(s) to work:** https://www.freecodecamp.com/grois333
+
 ### Day 43: April 12, 2017
 
 **Today's Progress**: 
