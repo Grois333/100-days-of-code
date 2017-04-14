@@ -3,6 +3,16 @@
 
 ###Adding progress...
 
+### Day 45: April 14, 2017
+
+**Today's Progress**: 
+Completed 4 FreeCodeCamp challenges from the Intermediate Algorithm Scripting section (Pig Latin, DNA Pairing, Missing letters, Boo who).
+
+**Thoughts:**  
+
+**Link(s) to work:** https://www.freecodecamp.com/grois333
+
+
 ### Day 44: April 13, 2017
 
 **Today's Progress**: 
