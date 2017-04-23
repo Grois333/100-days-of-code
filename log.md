@@ -3,6 +3,16 @@
 
 ###Adding progress...
 
+### Day 46: April 14, 2017
+
+**Today's Progress**: 
+Completed 6 FreeCodeCamp challenges from the Intermediate Algorithm Scripting section (Sorted Union ,Convert HTML Entities ,Spinal Tap Case ,Sum All Odd Fibonacci Numbers ,Sum All Primes ,Smallest Common Multiple).
+
+**Thoughts:**  
+
+**Link(s) to work:** https://www.freecodecamp.com/grois333
+
+
 ### Day 45: April 14, 2017
 
 **Today's Progress**: 
