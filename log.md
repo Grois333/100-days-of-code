@@ -3,6 +3,15 @@
 
 ###Adding progress...
 
+### Day 47: April 24, 2017
+
+**Today's Progress**: 
+Completed 6 and finished FreeCodeCamp challenges from the Intermediate Algorithm Scripting section (Finders Keepers Drop it, Steamroller Binary Agents, Everything Be True, Arguments Optional).
+
+**Thoughts:**  
+
+**Link(s) to work:** https://www.freecodecamp.com/grois333
+
 ### Day 46: April 23, 2017
 
 **Today's Progress**: 
