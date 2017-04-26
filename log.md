@@ -3,6 +3,15 @@
 
 ###Adding progress...
 
+### Day 48: April 25, 2017
+
+**Today's Progress**: 
+Completed 3 FreeCodeCamp challenges from the Advanced Algorithm Scripting section (Validate US Telephone Numbers, Record Collection, Symmetric Difference).
+
+**Thoughts:**  
+
+**Link(s) to work:** https://www.freecodecamp.com/grois333
+
 ### Day 47: April 24, 2017
 
 **Today's Progress**: 
