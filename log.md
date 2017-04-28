@@ -6,7 +6,7 @@
 ### Day 49: April 28, 2017
 
 **Today's Progress**: 
-Completed 2 FreeCodeCamp challenges from the Advanced Algorithm Scripting section (Exact Change, Symmetric Difference).
+Completed 2 FreeCodeCamp challenges from the Advanced Algorithm Scripting section (Exact Change, Inventory Update).
 
 **Thoughts:**  
 
