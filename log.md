@@ -3,6 +3,34 @@
 
 ###Adding progress...
 
+### Day 52: May 06, 2017
+
+**Today's Progress**: 
+Completed 1 FreeCodeCamp challenge from the Advanced Algorithm Scripting section (Pairwise).
+
+**Thoughts:**  
+
+**Link(s) to work:** https://www.freecodecamp.com/grois333
+
+
+### Day 51: May 05, 2017
+
+**Today's Progress**: 
+Completed 1 FreeCodeCamp challenge from the Advanced Algorithm Scripting section (Map the Debris).
+
+**Thoughts:**  
+
+**Link(s) to work:** https://www.freecodecamp.com/grois333
+
+### Day 50: May 04, 2017
+
+**Today's Progress**: 
+Completed 1 FreeCodeCamp challenge from the Advanced Algorithm Scripting section (Make a Person).
+
+**Thoughts:**  
+
+**Link(s) to work:** https://www.freecodecamp.com/grois333
+
 ### Day 49: April 28, 2017
 
 **Today's Progress**: 
