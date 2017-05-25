@@ -10,7 +10,7 @@ Today's Progress: I Completed the JavaScript Tutorial Course on Solo Learn.
 Thoughts:
 
 Link(s) to work:
-https://www.sololearn.com/Certificate/1024-3710686/pdf/
+https://www.sololearn.com/Certificate/1024-3710686/pdf/ <br>
 https://www.sololearn.com/Profile/3710686/JavaScript
 
 ### Day 52: May 06, 2017
