@@ -3,6 +3,15 @@
 
 ###Adding progress...
 
+### Day 54: June 20, 2017
+
+**Today's Progress**: 
+Completed the Build a JavaScript Calculator App.
+
+**Thoughts:**  
+
+**Link(s) to work:** https://codepen.io/grois33/full/zwmBOK/
+
 ### Day 53: May 25, 2017
 
 Today's Progress: I Completed the JavaScript Tutorial Course on Solo Learn.
