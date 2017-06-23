@@ -3,6 +3,15 @@
 
 ###Adding progress...
 
+### Day 55: June 23, 2017
+
+Today's Progress: I Completed the jQuery Tutorial Course on Solo Learn.
+
+Thoughts:
+
+Link(s) to work:
+https://www.sololearn.com/Certificate/1082-3710686/pdf/
+
 ### Day 54: June 20, 2017
 
 **Today's Progress**: 
