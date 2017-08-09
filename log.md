@@ -3,6 +3,15 @@
 
 ###Adding progress...
 
+### Day 56: August 09, 2017
+
+**Today's Progress**: 
+Finished and Deployed to Github Pages: Invie site project with Responsive Design.
+
+**Thoughts: Learned a lot about compressing CSS and images to optimize the sites.** 
+
+**Link(s) to work:** https://grois333.github.io/invie-responsive/
+
 ### Day 55: June 23, 2017
 
 Today's Progress: I Completed the jQuery Tutorial Course on Solo Learn.
