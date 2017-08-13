@@ -3,6 +3,16 @@
 
 ###Adding progress...
 
+### Day 57: August 13, 2017
+
+**Today's Progress**: 
+Challenge by Platzi: Mixtures of transitions with Responsive Design.
+
+**Thoughts:** 
+
+**Link(s) to work:** https://codepen.io/grois33/full/prryZQ/
+
+
 ### Day 56: August 09, 2017
 
 **Today's Progress**: 
