@@ -3,6 +3,16 @@
 
 ###Adding progress...
 
+### Day 58: August 25, 2017
+
+**Today's Progress**: 
+Completed the FreeCodeCamp Advanced Front End Development Project: Build a Pomodoro Clock.
+
+**Thoughts:** 
+
+**Link(s) to work:** https://codepen.io/grois33/full/oedzvK/
+
+
 ### Day 57: August 13, 2017
 
 **Today's Progress**: 
