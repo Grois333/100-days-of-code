@@ -3,6 +3,15 @@
 
 ###Adding progress...
 
+### Day 59: September 29, 2017
+
+**Today's Progress**: 
+Completed the FreeCodeCamp Advanced Front End Development Project: Build a Tic Tac Toe Game.
+
+**Thoughts: the hardest one yet!** 
+
+**Link(s) to work:** https://codepen.io/grois33/full/KXmYLP/
+
 ### Day 58: August 25, 2017
 
 **Today's Progress**: 
