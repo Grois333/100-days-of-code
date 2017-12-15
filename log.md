@@ -3,6 +3,14 @@
 
 ###Adding progress...
 
+Day 60: December 15, 2017
+
+Today's Progress: Completed the FreeCodeCamp Advanced Front End Development Project: Build The Simon Game.
+
+Thoughts: :)
+
+Link(s) to work: https://codepen.io/grois33/full/GOrXvp/
+
 ### Day 59: September 29, 2017
 
 **Today's Progress**: 
